@@ -2,7 +2,6 @@
 
 This app is built with **React Native**, **Expo**, and **Expo Go** for development. It’s deployed using **Expo** (EAS). Here’s how to get an **iOS** version when you **don’t have a Mac or an Apple phone**.
 
----
 
 ## In short
 
